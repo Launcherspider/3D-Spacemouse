@@ -1,9 +1,10 @@
-Qty,Item,Link
-6,Round Magnets (6 × 2mm),https://geni.us/0oCmMH
-3,"Compression Spring 23/64"" × 1-3/8""",https://geni.us/mm5tB
-3,"Extension Spring 13/64"" × 13/16""",https://geni.us/mm5tB
-24,M2.5 × 3.4 mm Heat-Set Inserts,https://geni.us/BMZYH
-10,M2.5 × 3mm Socket Head Screws,https://geni.us/S0KvnqZ
-3,M2.5 × 5mm Socket Head Screws,https://geni.us/S0KvnqZ
-7,M2.5 × 8mm Socket Head Screws,https://geni.us/S0KvnqZ
-4,M2.5 × 12mm Socket Head Screws,https://geni.us/S0KvnqZ
+Qty;Item;;
+5;Round Magnets;6*2mm;stacked 9-10mm
+3;Compression Spring;9*35mm (0.7 thick);
+3;Extension Spring;5*20mm (0.5 thick);relaxed 8mm long
+4;M2;4*3.5mm (wide*long) Heat-Set Inserts;
+14;M3;6*5mm (wide*long) Heat-Set Inserts;
+4;M2;10mm Socket Head Screws;Stem_Middle
+3;M3;6mm Socket Head Screws;Knob+Base_Middle
+3;M3;8mm Socket Head Screws;Stem
+4;M3;12mm Socket Head Screws;Base_Top
