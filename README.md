@@ -1,6 +1,6 @@
 # **DIY 3D Space Mouse** <sub>*for OnShape, Fusion 360 and more*</sub>
 
-Watch the build video ↓
+Watch the build video from sb-ocr ↓
 
 [<img src="/Images/Spacemouse_Thumbnail@2x.png">](https://youtu.be/iHBgNGnTiK4)
 
