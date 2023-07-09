@@ -15,5 +15,5 @@ The Stl and Step files are all replaced. I optimized it for 3D printing.
 The Mouse can be assembled directly after printing, no support matirial needed. See Print_All.stl for optimal orientation.
 The Base_bottom can be filled after printing no pausing needed. I used plaster to weighten the Base. Steel would be better, lead would be best.
 
-<img src="Images/Render Cut 2.PNG">
+<img src="Images/Render_Cut_2.PNG">
 <img src="Images/Polish_20230709_175925855.jpg">
