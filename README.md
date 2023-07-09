@@ -11,8 +11,9 @@ Build instructions → [Instructables](https://www.instructables.com/DIY-Space-M
 ## **Fork update:**
 
 I changed the code, so it works in OnShape and similar CAD applications. I used AI to help me, since I do not code usually.
-The Stl and Step files are all replaced. I optimized it for 3D printing. 
-The Mouse can be assembled directly after printing, no support matirial needed. See Print_All.stl for optimal orientation.
+
+All the Stl and Step files are replaced. I optimized it for 3D printing. 
+The mouse can be assembled directly after printing, no support material needed. See Print_All.stl for optimal orientation.
 The Base_bottom can be filled after printing no pausing needed. I used plaster to weighten the Base. Steel would be better, lead would be best.
 
 <img src="Images/Render Cut 2.PNG">
