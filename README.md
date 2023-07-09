@@ -20,7 +20,7 @@ The Base_bottom can be filled after printing no pausing needed. I used plaster t
 <img src="Images/Render Cut 2.PNG">
 <img src="Images/Polish_20230709_175925855.jpg">
 
-##Using
+## Using
 Ones connected the knob can be used to pan (aka moveing the object/camera in all directions on the view plane) by tilting the it in the appropriate direction.
 By punshing the knob down (lightly), the orbiting mode gets activated (aka rotating the object/camera around the central point).
 The buttons are corrently just set to tip a "**n**" or "**f**", but can be changed to every chaine of keyboard or mouse input. [Reference](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/)
