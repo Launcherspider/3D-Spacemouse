@@ -1,0 +1,11 @@
+| Qty | Item | Notes | Place |
+| --- | --- |---|---|
+5,Round Magnets (6 × 2mm),
+3,Compression Spring 9 × 35mm ,0.7mm thick,
+3,Extension Spring 5 x 20mm,0.5mm tick,relaxed 8mm
+4,M2 × 3.5 mm Heat-Set Inserts,,
+14,M3 × 4-5mm Socket Head Screws,,
+4,M2 × 10mm Socket Head Screws,,Stem_Middle
+3,M3 × 6mm Socket Head Screws,,Knob+Base_Middle
+3,M3 × 8mm Socket Head Screws,,Stem
+4,M3 × 12mm Socket Head Screws,,Base_Top
