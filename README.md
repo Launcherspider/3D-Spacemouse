@@ -1,12 +1,12 @@
 # **DIY 3D Space Mouse** <sub>*for OnShape, Fusion 360 and more*</sub>
-
-Watch the build video from sb-ocr ↓
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png">](https://youtu.be/iHBgNGnTiK4)
-
+<img src="Images/Render Cut 2.PNG">
 This Input device is made for OneSape.com and Fusion360 but can be adapted to other CAD applications. Current features: Orbit, Pan, Home view and normal/fit view.
 
-Build instructions → [Instructables](https://www.instructables.com/DIY-Space-Mouse-for-Fusion-360-Using-Magnets)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png">](https://youtu.be/iHBgNGnTiK4)
+⇦Build video from sb-ocr
+
+[<img src="https://yt3.googleusercontent.com/ytc/AOPolaSwBoXviLeQhikQwFOVSZCFjgkQLT0q5EiE85LS4u4=s176-c-k-c0x00ffffff-no-rj">]([https://youtu.be/iHBgNGnTiK4](https://www.instructables.com/DIY-Space-Mouse-for-Fusion-360-Using-Magnets))
+⇦Build instructions
 
 
 ## **Fork update:**
@@ -17,7 +17,7 @@ All the Stl and Step files are replaced. I optimized it for 3D printing.
 The mouse can be assembled directly after printing, no support material needed. See Print_All.stl for optimal orientation.
 The Base_bottom can be filled after printing no pausing needed. I used plaster to weighten the Base. Steel would be better, lead would be best.
 
-<img src="Images/Render Cut 2.PNG">
+
 <img src="Images/Polish_20230709_175925855.jpg">
 
 ## Using
