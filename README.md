@@ -2,7 +2,7 @@
 
 Watch the build video from sb-ocr ↓
 
-[<img src="/Images/Spacemouse_Thumbnail@2x.png">](https://youtu.be/iHBgNGnTiK4)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png">](https://youtu.be/iHBgNGnTiK4)
 
 This Input device is made for OneSape.com and Fusion360 but can be adapted to other CAD applications. Current features: Orbit, Pan, Home view and normal/fit view.
 
